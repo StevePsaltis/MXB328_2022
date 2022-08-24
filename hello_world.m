@@ -5,3 +5,5 @@
 % Script to print "Hello world!" to command window
 
 fprintf("Hello world!\n");
+
+fprintf("How are you?\n");
