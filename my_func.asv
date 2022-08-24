@@ -96,8 +96,6 @@ function F = my_func(N)
     constants.b = 2;
     constants.c = 3;
 
-    vec = rand(1000, 1);
-
-    vec(vec > 0.5) = -1;
+    
 
 end
